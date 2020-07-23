@@ -1,0 +1,318 @@
+.book{
+position: absolute;
+width: 130.98px;
+height: 35.06px;
+top: 101px;
+    left:605px;
+background: url(Book.png);
+}
+#nav{
+    z-index: 1;
+    position: fixed;
+width: 100%;
+height: 100px;
+left: 0px;
+top: -34px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+}
+#user{
+    position: absolute;
+width: 45px;
+height: 45px;
+left: 1112px;
+top:45px;
+background: url(icons8-customer-96.png);
+}
+#main{
+    position: absolute;
+width: 115px;
+height: 35px;
+left: 335px;
+top: 50px;
+text-decoration: none;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 35px;
+text-align: center;
+
+color: #000000;
+}
+#support{
+    position: absolute;
+width: 162px;
+height: 35px;
+left: 508px;
+top: 50px;
+text-decoration: none;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 35px;
+text-align: center;
+
+color: #000000;
+}
+#city{
+    position: absolute;
+width: 83px;
+height: 35px;
+left: 720px;
+top: 50px;
+text-decoration: none;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 35px;
+text-align: center;
+
+color: #000000;
+}
+#lorip{
+    position: absolute;
+width: 398px;
+height: 52px;
+left: 471px;
+top: 170px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 28px;
+line-height: 43px;
+text-align: center;
+
+color: #1F1F1F;
+}
+#Lorip{
+ position: absolute;
+width: 300px;
+height: 30px;
+left: 515px;
+top: 320px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 25px;
+text-align: center;
+color: #4D4D4D;
+}
+.chtoto{
+    position: absolute;
+width: 145px;
+height: 222px;
+left: 858px;
+top: 158px;
+background: url(Chto-to.png);
+}
+#input{
+    position: absolute;
+width: 356px;
+height: 36px;
+left: 483px;
+top: 390px;
+background: #FFFFFF;
+box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.25);
+border-radius: 25px;
+    font-size: 15px;
+}
+#lupa{
+position: absolute;
+width: 20px;
+height: 20px;
+left: 810px;
+top: 400px;
+
+background: url(loupe.png);
+}
+#rec28{
+    position: absolute;
+width: 90px;
+height: 90px;
+left: 215px;
+top: 480px;
+background: rgba(0, 0, 0, 0.3);
+border-radius: 21px;
+}
+#nail{
+   position: absolute;
+width: 50px;
+height: 50px;
+left: 235px;
+top: 490px;      
+}
+#hair{
+  position: absolute;
+width: 50px;
+height: 50px;
+left: 355px;
+top: 490px;   
+}
+#cosm{
+ position: absolute;
+width: 50px;
+height: 50px;
+left: 475px;
+top: 490px;    
+}
+#vis{
+   position: absolute;
+width: 50px;
+height: 50px;
+left: 595px;
+top: 490px; 
+}
+#shug{
+   position: absolute;
+width: 50px;
+height: 50px;
+left: 715px;
+top: 490px; 
+}
+#tat{
+ position: absolute;
+width: 50px;
+height: 50px;
+left: 835px;
+top: 490px;
+}
+#mass{
+   position: absolute;
+width: 50px;
+height: 50px;
+left: 955px;
+top: 490px;
+}
+#lash{
+    position: absolute;
+width: 50px;
+height: 50px;
+left: 1075px;
+top: 490px;
+}
+
+#rec29{
+    position: absolute;
+width: 90px;
+height: 90px;
+left: 335px;
+top: 480px;
+background: rgba(0, 0, 0, 0.3);
+border-radius: 22px;
+}
+#rec30{
+    position: absolute;
+width: 90px;
+height: 90px;
+left: 455px;
+top: 480px;
+background: rgba(0, 0, 0, 0.3);
+border-radius: 21px;
+}
+#rec32{
+position: absolute;
+width: 90px;
+height: 90px;
+left: 575px;
+top: 480px;
+background: rgba(0, 0, 0, 0.3);
+border-radius: 21px;
+}
+#rec33{
+position: absolute;
+width: 90px;
+height: 90px;
+left: 695px;
+top: 480px;
+background: rgba(0, 0, 0, 0.3);
+border-radius: 21px;
+}
+#rec34{
+position: absolute;
+width: 90px;
+height: 90px;
+left: 815px;
+top: 480px;
+background: rgba(0, 0, 0, 0.3);
+border-radius: 21px;
+}
+#rec35{
+position: absolute;
+width: 90px;
+height: 90px;
+left: 935px;
+top: 480px;
+background: rgba(0, 0, 0, 0.3);
+border-radius: 21px;
+}
+#rec36{
+  position: absolute;
+width: 90px;
+height: 90px;
+left: 1055px;
+top: 480px;
+background: rgba(0, 0, 0, 0.5);
+border-radius: 21px;  
+}
+#nail1{
+   position: absolute;
+left: 222px;
+top: 542px;
+        color: white;
+text-decoration: none;
+}
+#hair1{
+  position: absolute;
+left: 338px;
+top: 542px;   
+        color: white;
+text-decoration: none;
+}
+#cosm1{
+ position: absolute;
+left: 460px;
+top: 542px;   
+        color: white;
+text-decoration: none;
+}
+#vis1{
+   position: absolute;
+left: 585px;
+top: 542px; 
+        color: white;
+text-decoration: none;
+}
+#shug1{
+   position: absolute;
+left: 705px;
+top: 542px; 
+        color: white;
+text-decoration: none;
+}
+#tat1{
+    text-decoration: none;
+ position: absolute;
+left: 835px;
+top: 542px;
+    color: white;
+}
+#mass1{
+   position: absolute;
+left: 955px;
+top: 542px;
+        color: white;
+text-decoration: none;
+}
+#lash1{
+    position: absolute;
+left: 1065px;
+top: 542px;
+        color: white;
+text-decoration: none;
+}
